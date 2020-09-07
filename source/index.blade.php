@@ -12,7 +12,7 @@
 body,h1,h5 {font-family: "Roboto", sans-serif;}
 body, html {height: 100%}
 .bgimg {
-  background-image: url('homepagepic.png');
+  background-image: url('https://cdn.discordapp.com/attachments/520151789971177473/713757029990400021/urgaylol_cover_extended.png');
   min-height: 100%;
   background-position: center;
   background-size: cover;
