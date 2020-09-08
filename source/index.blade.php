@@ -60,7 +60,7 @@ a:hover { COLOR: white; }
     <span> 
  <div class="w3-bar">
 	<a button class="btn sub" href="/">Home</a>
-    <a button class="btn sub" href="/index.html">Subscribe</a>
+    <a button class="btn sub" href="/sub.html">Subscribe</a>
 	<a button class="btn sub" href="html.report">Report a Typo</a>
 	<a button class="btn sub" href="https://twitter.com/urgaylolhaha">Twitter</a>
 	<a button class="btn sub" href="https://www.patreon.com/urgaylol">Patreon</a>
