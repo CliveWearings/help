@@ -59,7 +59,7 @@ a:hover { COLOR: white; }
   <div class="w3-display-bottomleft w3-container">
     <span> 
  <div class="w3-bar">
-	<a button class="btn sub" href="homepage3.html">Home</a>
+	<a button class="btn sub" href="/">Home</a>
     <a button class="btn sub" href="index.html">Subscribe</a>
 	<a button class="btn sub" href="html.report">Report a Typo</a>
 	<a button class="btn sub" href="https://twitter.com/urgaylolhaha">Twitter</a>
