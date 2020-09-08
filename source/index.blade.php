@@ -48,7 +48,7 @@ a:hover { COLOR: white; }
 <div class="bgimg w3-display-container w3-text-white">
   <div class="w3-display-left">
     <p></br><a href="announce.html" style="text-decoration:none">ANNOUNCEMENTS</a>
-</br><a href="season1.html" style="text-decoration:none">Season 1</a>
+</br><a href="season1.php" style="text-decoration:none">Season 1</a>
 </br><a href="season2.html" style="text-decoration:none">Season 2</a>
 </br><a href="season3.html" style="text-decoration:none">Season 3 (COMING SOON)</a> 
 </br><a href="season4.html" style="text-decoration:none">Season 4 (COMING LESS SOON)</a></strong></p>
