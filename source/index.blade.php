@@ -54,7 +54,7 @@ a:hover { COLOR: white; }
 </br><a href="season4.html" style="text-decoration:none">Season 4 (COMING LESS SOON)</a></strong></p>
   </div>
   <div class="w3-display-topleft w3-container w3-xlarge">
-    <p><p style="color:white"> <strong>A City Stranded Cowboy's Robot Mercy Killing Buisness</p>
+    <p><p style="color:white"> <strong>A City Stranded Cowboy's Robot Mercy Killing Business</p>
   </div>
   <div class="w3-display-bottomleft w3-container">
     <span> 
