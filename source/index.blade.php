@@ -47,7 +47,7 @@ a:hover { COLOR: white; }
 
 <div class="bgimg w3-display-container w3-text-white">
   <div class="w3-display-left">
-    <p></br><a href="announce.html" style="text-decoration:none">ANNOUNCEMENTS</a>
+    <p></br><a href="/announce.html" style="text-decoration:none">ANNOUNCEMENTS</a>
 </br><a href="season1.html" style="text-decoration:none">Season 1</a>
 </br><a href="season2.html" style="text-decoration:none">Season 2</a>
 </br><a href="season3.html" style="text-decoration:none">Season 3 (COMING SOON)</a> 
@@ -64,7 +64,7 @@ a:hover { COLOR: white; }
 	<a button class="btn sub" href="html.report">Report a Typo</a>
 	<a button class="btn sub" href="https://twitter.com/urgaylolhaha">Twitter</a>
 	<a button class="btn sub" href="https://www.patreon.com/urgaylol">Patreon</a>
-	<a button class="btn sub" href="gad.html">Gadgets</a></strong>
+	<a button class="btn sub" href="/gad.html">Gadgets</a></strong>
 <style>
 .btn {
   border: none;
