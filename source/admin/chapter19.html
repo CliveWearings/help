@@ -46,7 +46,16 @@ max-width:100%;
 max-height:100%
 }
 </style>
+<script>
+const changeText = window.localStorage.getItem("hasBeenHere");
 
+if (changeText) {
+	document.getElementById("hewwo").src="/pics/BARTON4.GIF";
+}
+
+alert (changeText)
+
+</script>
 <body>
 <body bgcolor=#434343>
 <p><p><center><font size="10" color="white">Tex's Ex</font></center></p>
@@ -90,7 +99,7 @@ max-height:100%
 <p>"Here it is!" Dr. Lofgren said as she emerged from the room with a rectangle in her hand.</p>
 <p>Upon climbing back on stage, Dr. Lofgren handed her phone to Tex. Everyone crowded around him to look at the screen.</p>
 <p>The screen showed several graphics. Tex examined the one on top first.</p>
-<div><img src="/pics/BARTON 4.gif"/></div>
+<div><img src="/pics/barton's gif2.0.gif" alt id="hewwo"/ ></div>
 <p>"What is it?" asked Tala.</p>
 <p>"I ran your DNA over every simulation between ancient Rome and modern China last night." Dr. Lofgren explained. "These are compiled results of average desire to do good, and average impact on the world."</p>
 <p>"Woah..." Tex trailed off.</p>
