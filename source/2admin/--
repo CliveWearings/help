@@ -59,4 +59,46 @@ max-height:100%
 
 <img src="/2pics/ben1.png">
 <img src="/2pics/ben2.png">
-</html>
+</br></br></body>
+
+
+
+
+
+
+  <div class="footer">
+  <style>
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #434343;
+   color: white;
+   text-align: center;
+}
+</style>
+  <p>
+    <div class="w3-bar">
+
+	<a button class="btn sub" href="/">Home</a>
+    <a button class="btn rep" href="/2admin/2chapter2.html">Chapter>></a>
+	
+<style>
+.btn {
+  border: none;
+  padding: 5px 5px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+  text-decoration: none
+}
+.btn:hover {background: #666699;}
+.sub {color: white;
+background-color: black;
+}
+.rep {color: black;
+background-color: white;
+}
+
+    </div>
